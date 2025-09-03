@@ -1,6 +1,7 @@
 {
-  "recommendations": [
-    "Vue.volar",
-    "esbenp.prettier-vscode"
-  ]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
